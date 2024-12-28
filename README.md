@@ -15,6 +15,8 @@
 - Added speech-to-text (STT) integration for real-time voice input, allowing customers to interact naturally through voice commands.
 - Implemented text-to-speech (TTS) functionality to provide natural voice responses, enhancing accessibility and interaction quality.
 
+![alt text](image.png)
+
 >How to Install and Use:
 - Clone the Repository
 - Install Dependencies - npm install
